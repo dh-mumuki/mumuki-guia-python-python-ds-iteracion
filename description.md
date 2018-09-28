@@ -9,7 +9,6 @@ Para recorrer una estructura de datos, es necesario que tenga la propiedad de se
 El llamado al for se realiza de la siguiente manera:
 
 ``` pyhton
-
 for elemento in algun_iterable:
   código
 ```
