@@ -25,7 +25,7 @@ Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se 
 
 #### Iterando una lista de elementos.
 
-Para iterar sobre una lista, vamos a hacer un llamado al `for`, la sintaxis para utilizar el for es la siguiente:
+Para iterar sobre una lista, vamos a hacer un llamado al `for`, la sintaxis para utilizar el `for` es la siguiente:
 
 ``` pyhton
 mi_lista = [1, 2, 3, 5]
