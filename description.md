@@ -31,6 +31,5 @@ Para iterar sobre una lista, vamos a hacer un llamado al `for`, la sintaxis para
 mi_lista = [1, 2, 3, 5]
 
 for numero in lista:
-  
-
+  print(numero)
 ```
