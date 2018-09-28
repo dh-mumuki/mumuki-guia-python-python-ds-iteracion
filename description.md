@@ -6,7 +6,7 @@ El proceso de recorrer una estructura de datos se conoce como iteración, en té
 
 Para recorrer una estructura de datos, es necesario que tenga la propiedad de ser iterable, tipos iterables podrian ser: una lista, un diccionario, un string, etc.
 
-El llamado al for se realiza de la siguiente manera:
+El llamado al `for` se realiza de la siguiente manera:
 
 ``` pyhton
 for elemento in algun_iterable:
