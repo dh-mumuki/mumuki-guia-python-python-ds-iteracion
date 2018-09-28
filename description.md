@@ -13,7 +13,11 @@ for elemento in algun_iterable:
   cuerpo_del_for
 ```
 
-Por cada elemento del iterable, se ejecuta el cuerpo del `for`, que es un conjunto de instrucciones que se repite cambiando el `elemento` en cada iteración. 
+Inspeccionemos por separado este enunciado:
+
+  * `for` es el comienzo de la declaracion del ciclo for.
+  * `elemento` es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`
+  
 
 #### Iterando una lista de elementos.
 
