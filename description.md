@@ -30,6 +30,6 @@ Para iterar sobre una lista, vamos a hacer un llamado al `for`, la sintaxis para
 ``` pyhton
 mi_lista = [1, 2, 3, 5]
 
-for numero in lista:
+for numero in mi_lista:
   print(numero)
 ```
