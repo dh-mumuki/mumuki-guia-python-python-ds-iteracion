@@ -15,8 +15,12 @@ for elemento in algun_iterable:
 
 Inspeccionemos por separado este enunciado:
 
-  * `for` es el comienzo de la declaracion del ciclo for.
-  * `elemento` es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`
+  * `for`: es el comienzo de la declaracion del ciclo for.
+  * `elemento`: es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`.
+  * `in`: indica la estructura sobre la que queremos iterar.
+  * `cuerpo_del_for`: es el código que se ejecuta en cada iteracion.
+
+Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento`
   
 
 #### Iterando una lista de elementos.
