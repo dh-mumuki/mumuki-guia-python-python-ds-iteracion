@@ -20,7 +20,7 @@ Inspeccionemos por separado este enunciado:
   * `in`: indica la estructura sobre la que queremos iterar.
   * `cuerpo_del_for`: es el código que se ejecuta en cada iteracion.
 
-Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento`
+Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
   
 
 #### Iterando una lista de elementos.
