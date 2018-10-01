@@ -10,7 +10,7 @@ El llamado al `for` se realiza de la siguiente manera:
 
 ``` pyhton
 for elemento in algun_iterable:
-  cuerpo_del_for
+   cuerpo_del_for
 ```
 
 Inspeccionemos por separado este enunciado:
