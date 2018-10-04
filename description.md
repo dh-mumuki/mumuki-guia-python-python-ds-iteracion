@@ -65,6 +65,7 @@ for numero in mi_lista:
 Acá tomamos cada elemento de la lista y se lo asignamos a la variable numero. Una vez dentro del cuerpo del for, sumamos la variable **numero** con 10, y reasignamos el valor **numero** con el resultado de esta operación.
 
 Vemos las dos primeras iteraciones:
+  
   *  iter1: asigno valor 1 a numero -> (numero vale 1)
   *  iter1: reasigno (10 + numero) a numero -> (numero vale 11)
   *  iter1: imprimo numero
