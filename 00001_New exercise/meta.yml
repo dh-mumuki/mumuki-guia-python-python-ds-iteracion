@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: imprime la sucesión de números de forma creciente (1, 3, 4) durante la iteración.
+  checked: false
+- value: imprime cada número contenido en la lista sin necesariamente tomando un criterio
+    de orden.
+  checked: false
+- value: imprime la sucesión de números en forma creciente de indice
+  checked: true
+name: New exercise
