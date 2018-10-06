@@ -14,4 +14,4 @@ choices:
   checked: false
 - value: imprime la sucesión de números en forma creciente de indice
   checked: true
-name: New exercise
+name: Iteracion
