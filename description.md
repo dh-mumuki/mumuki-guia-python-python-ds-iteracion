@@ -19,6 +19,7 @@ for elemento in algun_iterable:
 ```
 
 Siguiendo el ejemplo:
+
 ``` pyhton
 for superheroe in lista_de_superheroes:
    print(superheroe)
