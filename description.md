@@ -25,13 +25,24 @@ for superheroe in lista_de_superheroes:
    print(superheroe)
 ```
 
-
 Inspeccionemos por separado este enunciado:
 
   * `for`: es el comienzo de la declaracion del ciclo for.
-  * `elemento`: es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`. Por ejemplo **superheroe**
-  * `in`: indica la estructura sobre la que queremos iterar.Por ejemplo **lista_de_superheroes**
-  * `cuerpo_del_for`: es el código que se ejecuta en cada iteracion. Por ejemplo **print(superheroe)**
+  * `elemento`: es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`.
+  * `in`: precede al elemento a iterar.
+  * `algun_iterable`: indica la estructura sobre la que queremos iterar.
+  * `cuerpo_del_for`: es el código que se ejecuta en cada iteración.
+
+
+Siguiendo el ejemplo:
+
+  * `for`:
+  * `elemento`: **superheroe**
+  * `in`:
+  * `algun_iterable`: **lista_de_superheroes**
+  * `cuerpo_del_for`: **print(superheroe)**
+
+
 
 Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
   
