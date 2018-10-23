@@ -18,14 +18,6 @@ for elemento in algun_iterable:
    cuerpo_del_for
 ```
 
-Siguiendo el ejemplo:
-
-``` pyhton
-for superheroe in lista_de_superheroes:
-   print(superheroe)
-```
-
-
 Inspeccionemos por separado este enunciado:
 
   * `for`: es el comienzo de la declaracion del ciclo for.
@@ -35,6 +27,15 @@ Inspeccionemos por separado este enunciado:
 
 Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
   
+
+Siguiendo el ejemplo:
+
+``` pyhton
+for superheroe in lista_de_superheroes:
+   print(superheroe)
+```
+
+
 
 #### Iterando una lista de elementos
 
