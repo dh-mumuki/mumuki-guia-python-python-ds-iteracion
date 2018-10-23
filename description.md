@@ -25,7 +25,9 @@ Inspeccionemos por separado este enunciado:
   * `in`: precede al elemento a iterar.
   * `algun_iterable`: indica la estructura sobre la que queremos iterar.
   * `cuerpo_del_for`: es el código que se ejecuta en cada iteración.
-  * 
+
+Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
+
 
 Siguiendo el ejemplo:
 
@@ -35,16 +37,14 @@ for superheroe in lista_de_superheroes:
 ```
 
 
-  * `for`:
+  * `for`
   * `elemento`: **superheroe**
-  * `in`:
+  * `in`
   * `algun_iterable`: **lista_de_superheroes**
   * `cuerpo_del_for`: **print(superheroe)**
 
 
 
-Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
-  
 
 
 #### Iterando una lista de elementos
