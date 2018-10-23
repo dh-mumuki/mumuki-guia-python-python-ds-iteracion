@@ -24,9 +24,12 @@ Inspeccionemos por separado este enunciado:
   * `elemento`: es el nombre de la variable que va a tomar cada valor dentro del `cuerpo_del_for`.
   * `in`: precede al elemento a iterar.
   * `algun_iterable`: indica la estructura sobre la que queremos iterar.
-  * `cuerpo_del_for`: es el código que se ejecuta en cada iteración.
+  * `:`<-- es necesario para terminar la primer linea y darle inicio al `cuerpo_del_for`
+  * `cuerpo_del_for`: es el bloque de código que se ejecuta en cada iteración.
 
 Para cada ejecución del `cuerpo_del_for` el valor de la variable `elemento` se va modificando.
+
+> Notar que el `cuerpo_del_for` se encuentra desplazado hacia la derecha respecto del inicio del ciclo `for`. A este corrimiento se lo llama indentación, y es necesaria para identificar el `cuerpo_del_for`.
 
 
 Siguiendo el ejemplo:
@@ -41,6 +44,7 @@ for superheroe in lista_de_superheroes:
   * `elemento`: **superheroe**
   * `in`
   * `algun_iterable`: **lista_de_superheroes**
+  * `:`
   * `cuerpo_del_for`: **print(superheroe)**
 
 
