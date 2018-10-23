@@ -18,13 +18,6 @@ for elemento in algun_iterable:
    cuerpo_del_for
 ```
 
-Siguiendo el ejemplo:
-
-``` pyhton
-for superheroe in lista_de_superheroes:
-   print(superheroe)
-```
-
 Inspeccionemos por separado este enunciado:
 
   * `for`: es el comienzo de la declaracion del ciclo for.
@@ -32,9 +25,15 @@ Inspeccionemos por separado este enunciado:
   * `in`: precede al elemento a iterar.
   * `algun_iterable`: indica la estructura sobre la que queremos iterar.
   * `cuerpo_del_for`: es el código que se ejecuta en cada iteración.
-
+  * 
 
 Siguiendo el ejemplo:
+
+``` pyhton
+for superheroe in lista_de_superheroes:
+   print(superheroe)
+```
+
 
   * `for`:
   * `elemento`: **superheroe**
