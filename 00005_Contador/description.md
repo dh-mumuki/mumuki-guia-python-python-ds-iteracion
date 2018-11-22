@@ -6,8 +6,7 @@ Se entiende por contador una variable que lleva la cuenta del número de veces q
 ``` python
 contador = 0
 for i in range(1, 6):
-    if i % 2 == 0:
-        contador = contador + 1
+    contador = contador + 1
 print(f"Desde 1 hasta 5 hay {cuenta} múltiplos de 2")
 ```
 
