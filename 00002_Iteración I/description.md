@@ -2,7 +2,7 @@
 
 Para iterar sobre una lista, vamos a hacer un llamado al `for`, la sintaxis para utilizar el `for` es la siguiente:
 
-``` pyhton
+``` python
 mi_lista = [1, 2, 3, 5]
 
 for numero in mi_lista:
@@ -21,7 +21,7 @@ En este `for` iteramos sobre una lista (mi_lista), para cada iteración asignamo
 
 Dentro de la iteración también es posible redefinir el valor que toma la varible definida en el `for`, veamos este código:
 
-``` pyhton
+``` python
 mi_lista = [1, 2, 3, 5]
 
 for numero in mi_lista:
@@ -47,4 +47,11 @@ Vemos las dos primeras iteraciones:
   *  iter2: asigno valor 2 a numero -> (numero vale 2)
   *  iter2: reasigno (10 + numero) a numero -> (numero vale 12)
   *  iter2: imprimo numero
+
+
+**Escriban un código en Python que salude a Ángeles, Carla y Natalia. El output debería ser:**<br>
+ _Salida:_
+**>Hola Ángeles**<br> 
+**>Hola María**<br>
+**>Hola Natalia**<br>
 
