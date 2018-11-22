@@ -49,9 +49,10 @@ Vemos las dos primeras iteraciones:
   *  iter2: imprimo numero
 
 
-**Escriban un código en Python que salude a Ángeles, Carla y Natalia. El output debería ser:**<br>
- _Salida:_
-**>Hola Ángeles**<br> 
-**>Hola María**<br>
-**>Hola Natalia**<br>
+**Qué imprime este código?**
+
+``` python
+for i in [4, 1, 3]:
+  print(i)
+```
 
