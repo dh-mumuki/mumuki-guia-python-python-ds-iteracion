@@ -24,3 +24,9 @@ print(f"Desde 1 hasta 5 hay {cuenta} múltiplos de 2")
 
 
 > Python permite escribir `contador += 1` en lugar de `contador = contador + 1` 
+
+<br>
+
+**Dada la siguiente lista, escribir un código que sume todos los elementos de una lista y luego imprima el resutlado**<br>
+`lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
+
