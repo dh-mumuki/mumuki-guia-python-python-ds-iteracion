@@ -7,11 +7,11 @@ Se entiende por contador una variable que lleva la cuenta del número de veces q
 contador = 0
 for i in range(1, 6):
     contador = contador + 1
-print(f"Desde 1 hasta 5 hay {cuenta} múltiplos de 2")
+print("Desde 1 hasta 5 hay " + contador + "múltiplos de 2")
 ```
 
  _Salida:_
-**La suma de los números de 1 a 4 es 10**
+**Desde 1 hasta 5 hay 2 múltiplos de 2**
 <br>
 
 **Detalles importantes:**
