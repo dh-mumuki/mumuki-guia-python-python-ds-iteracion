@@ -26,6 +26,6 @@ print("Desde 1 hasta 5 hay " + contador + "múltiplos de 2")
 
 <br>
 
-**Dada la siguiente lista, escribir un código que sume todos los elementos de una lista y luego imprima el resutlado**<br>
+:memo: **Dada la siguiente lista, escribir un código que sume todos los elementos de una lista y luego imprima el resutlado**<br>
 `lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
 

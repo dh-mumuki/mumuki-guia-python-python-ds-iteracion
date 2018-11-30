@@ -1,1 +1,1 @@
-**Ahora, reutilizando el código anterior, en lugar de devolverme el resultado de cada cáculo por seprado, que lo devuelva en una nueva lista llamada `lista1_cuadrado`.**
+:memo: **Ahora, reutilizando el código anterior, en lugar de devolverme el resultado de cada cáculo por seprado, que lo devuelva en una nueva lista llamada `lista1_cuadrado`.**
