@@ -13,3 +13,7 @@ print("La suma de los números de 1 a 4 es " + sumatoria)
 
 * El acumulador se modifica en cada iteración del bucle (en este caso, el valor de i se añade al acumulador suma).
 * Antes del bucle se debe dar un valor inicial al acumulador (en este caso, 0)
+
+<br>
+
+:memo:**Escriba un código que sume los los elementos de una lista de números en una variable llamada `sumatoria`.**
