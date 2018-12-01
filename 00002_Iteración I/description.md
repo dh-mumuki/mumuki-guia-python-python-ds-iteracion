@@ -8,7 +8,7 @@ mi_lista = [1, 2, 3, 5]
 for numero in mi_lista:
   print(numero)
 ```
- _Salida:_
+ _Salida:_<br>
 **>1** 
 
 **>2** 
