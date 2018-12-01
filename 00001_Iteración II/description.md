@@ -1,5 +1,6 @@
-:memo: **Escriban un código en Python que salude a Ángeles, Carla y Natalia. El output debería ser:**<br>
-<br> 
-**Hola Ángeles**<br> 
-**Hola María**<br>
-**Hola Natalia**<br>
+:memo: **Escriban un código en Python que imprima los nombres Angeles, Carla,  Natalia, Eugenia. El output debería ser:**<br>
+Salida:<br> 
+**>>Angeles**<br> 
+**>>Maria**<br>
+**>>Natalia**<br>
+**>>Eugenia**<br>

@@ -1,4 +1,2 @@
-# Quizás les sirve de inspiración
+nombres = ['Angeles', "Carla", "Natalia", "Eugenia"]
 
-for i in ["Juan", "Pedro", "Federico"]:
-  print("Hola " + i)
