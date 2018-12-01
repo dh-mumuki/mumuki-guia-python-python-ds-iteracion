@@ -1,7 +1,7 @@
 En muchos programas se necesitan variables que cuenten cuántas veces ha ocurrido algo (contadores) o que acumulen valores (acumuladores). Las situaciones pueden ser muy diversas, por lo que simplemente hay aquí un par de ejemplos para mostrar la idea.<br>
 
 **Contador**<br>
-Se entiende por contador una variable que lleva la cuenta del número de veces que se ha cumplido una condición. El ejemplo siguiente es un ejemplo de programa con contador (en este caso, la variable que hace de contador es la variable contador):<br>
+Se entiende por contador una variable que lleva la cuenta del número de veces que se ha cumplido una condición. El ejemplo siguiente es un ejemplo de programa con contador (en este caso, la variable que hace de contador es la variable `contador`):<br>
 
 ``` python
 contador = 0
@@ -26,6 +26,6 @@ print("Desde 1 hasta 5 hay " + contador + "múltiplos de 2")
 
 <br>
 
-:memo: **Dada la siguiente lista, escribir un código que sume todos los elementos de una lista y luego imprima el resutlado**<br>
+:memo: **Dada la siguiente lista, escribir un código que sume todos los elementos de una lista en una variable llamada contador.**<br>
 `lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
 
