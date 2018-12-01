@@ -7,7 +7,7 @@ Se entiende por contador una variable que lleva la cuenta del número de veces q
 contador = 0
 for i in range(1, 6):
     contador = contador + 1
-print("Desde 1 hasta 5 hay " + contador + "múltiplos de 2")
+print("Desde 1 hasta 5 hay " + contador + "números")
 ```
 
  _Salida:_
@@ -26,6 +26,6 @@ print("Desde 1 hasta 5 hay " + contador + "múltiplos de 2")
 
 <br>
 
-:memo: **Dada la siguiente lista, escribir un código que sume todos los elementos de una lista en una variable llamada contador.**<br>
+:memo: **Dada la siguiente lista, escribir un código que cuente todos los elementos de una lista en una variable llamada contador.**<br>
 `lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
 
