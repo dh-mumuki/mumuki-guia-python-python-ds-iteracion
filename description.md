@@ -26,6 +26,6 @@ for variable in elemento iterable (lista, cadena, range, etc.):
 ```
 <br>
 El cuerpo del bucle se ejecuta tantas veces como elementos tenga el elemento recorrible. 
-Ahora ya podemos imprimir 5 veces la variable mejor_lenguaje_de_programacion sin tener que escribir 5 veces print :wink:
+Ahora ya podemos imprimir 5 veces la variable `mejor_lenguaje_de_programacion` sin tener que escribir 5 veces print :wink:
 
 
