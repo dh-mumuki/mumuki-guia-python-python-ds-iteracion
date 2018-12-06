@@ -2,11 +2,12 @@ En muchos programas se necesitan variables que cuenten cuántas veces ha ocurrid
 <br>
 Veamos algunos ejemplos:
 <br>
+
 ``` python
 contador = 0
-for i in range(1, 6):
+for i in range(6):
     contador = contador + 1
-print("Desde 1 hasta 5 hay " + contador + "números")
+    print("Desde 1 hasta 5 hay " + contador + "números")
 
 ム
 > "Desde 1 hasta 5 hay 2 múltiplos de 2**
