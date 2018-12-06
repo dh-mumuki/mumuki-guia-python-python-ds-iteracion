@@ -19,6 +19,7 @@ for i in range(6):
 ```
 
 **Importantes:**
+
 * Antes del bucle se debe dar un valor inicial cero al contador.
 * En cada iteración, el contador va aumentando de uno en uno, hasta que se termine de recorrer toda la lista
 * De esta forma habremos contado cuántos elementos tiene la lista
