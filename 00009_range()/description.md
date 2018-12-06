@@ -8,6 +8,7 @@ print(range(6))
 > [0, 1, 2, 3, 4, 5]
 ```
 Veamos como utilizar el range en un bucle for:<br>
+
 ``` python
 for i in range(6):
   print("Hola Mundo!")
@@ -20,5 +21,3 @@ for i in range(6):
 > "Hola Mundo!"
 > "Hola Mundo!"
 ```
-<br>
-El código anterior imprime "Hola Mundo!" 6 veces
