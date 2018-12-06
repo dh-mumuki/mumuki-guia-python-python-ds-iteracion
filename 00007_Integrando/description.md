@@ -1,4 +1,2 @@
-:memo: **Nos falta el último paso. Con lo que vimos hasta ahora estan en condiciones de calcular la media o promedio de una lista. Adelante!**<br>
-**Asignaen el resultado a una variable llamada `media` e imprimanla.**
-<br>
-> Recuerden reutilizar el código de los ejercicios anteriores!
+Nos falta el último paso, con lo que vimos hasta ahora estás en condiciones de calcular la media o promedio de una lista ¿Te animás? :muscle:**<br>
+> :memo: **Asignaen el resultado a una variable llamada `media` e imprimanla.**
