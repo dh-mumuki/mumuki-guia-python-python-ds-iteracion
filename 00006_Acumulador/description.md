@@ -17,4 +17,4 @@ for i in [1, 2, 3, 4]:
 
 <br>
 
-> :memo: **Escribí un código que sume los los elementos de la siguiente lista: `[2, 5, 4, 8, 9, 3, 5 , 6]` de números en una variable llamada `sumatoria`.**
+> :memo: **Escribí un código que sume los los elementos de la siguiente lista: `[2, 5, 4, 8, 9, 3, 5 , 6]` en una variable llamada `sumatoria`.**
