@@ -1,25 +1,28 @@
 En muchos programas se necesitan variables que cuenten cuántas veces ha ocurrido algo, a estas variables se las llama contadores.
 <br>
-Veamos algunos ejemplos:
-<br>
+¿Cómo haríamos para contar los elementos de una lista?
 
 ``` python
 contador = 0
+
 for i in range(6):
     contador = contador + 1
-    print("Desde 1 hasta 5 hay " + contador + "números")
+    print(contador)
 
 ム
-> "Desde 1 hasta 5 hay 2 múltiplos de 2**
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
 ```
-<br>
 
-**Detalles importantes:**
+**Importantes:**
+* Antes del bucle se debe dar un valor inicial cero al contador.
+* En cada iteración, el contador va aumentando de uno en uno, hasta que se termine de recorrer toda la lista
+* De esta forma habremos contado cuántos elementos tiene la lista
 
-* En cada iteración, el programa comprueba si i es múltiplo de 2.
-* El contador se modifica sólo si la variable de control i es múltiplo de 2.
-* El contador va aumentando de uno en uno.
-* Antes del bucle se debe dar un valor inicial al contador (en este caso, 0)
 
 
 > Python permite escribir `contador += 1` en lugar de `contador = contador + 1` 
