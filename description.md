@@ -6,7 +6,4 @@ for variable in elemento_iterable :
     cuerpo bucle
 ```
 <br>
-El cuerpo del bucle se ejecuta tantas veces como elementos tenga el elemento recorrible. 
-Ahora ya podemos imprimir 5 veces la variable `mejor_lenguaje_de_programacion` sin tener que escribir 5 veces print :wink:
-
-
+El cuerpo del bucle se ejecuta tantas veces como elementos tenga el elemento recorrible.
