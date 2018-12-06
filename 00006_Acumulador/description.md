@@ -1,5 +1,4 @@
-**Acumulador**<br>
-Se entiende por acumulador una variable que acumula el resultado de una operación. El ejemplo siguiente es un ejemplo de programa con acumulador (en este caso, la variable que hace de acumulador es la variable `sumatoria`):<br>
+Se entiende por acumulador a aquella variable a la que se le va sumando el resultado de una operación.<br>
 
 ``` python
 sumatoria = 0
