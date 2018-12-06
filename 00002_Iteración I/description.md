@@ -42,6 +42,6 @@ Vemos si entendiste
 
 ``` python
 for i in [1, 2, 3]:
-  print("Hola Carla!")
+  print(i)
 ```
 
