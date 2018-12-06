@@ -41,7 +41,7 @@ Vemos si entendiste
 > :memo:**¿Qué imprime este código?**
 
 ``` python
-for i in [4, 1, 3]:
-  print(i)
+for i in [1, 2, 3]:
+  print("Hola Carla!")
 ```
 
