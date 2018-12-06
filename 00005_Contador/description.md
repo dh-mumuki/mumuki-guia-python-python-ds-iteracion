@@ -31,7 +31,5 @@ Python permite escribir `contador += 1` en lugar de `contador = contador + 1`
 
 <br>
 > :memo: **Escribir un código que cuente todos los elementos de la siguiente lista**
-
-<br>
 `lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
 
