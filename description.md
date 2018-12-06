@@ -1,5 +1,5 @@
 **Bucle**<br>
-Es una estructura de control que repite un bloque de instrucciones. Un bucle `for` es un bucle que repite el bloque de instrucciones un número prederminado de veces. El bloque de instrucciones que se repite se suele llamar cuerpo del bucle y cada repetición se suele llamar iteración. En Python se define de esta manera.<br>
+Un bucle `for` es un bucle que repite el bloque de instrucciones un número prederminado de veces. El bloque de instrucciones que se repite se suele llamar `cuerpo del bucle` y cada repetición se suele llamar iteración. En Python se define de esta manera.<br>
 
 ``` python
 for variable in elemento_iterable :
