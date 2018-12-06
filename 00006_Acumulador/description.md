@@ -1,10 +1,13 @@
-Se entiende por acumulador a aquella variable a la que se le va sumando el resultado de una operación.<br>
+Imaginemos que teemos que sumar los elementos de una lista ¿Cómo hacemos?<br>
+Para eso usamos una variable acumuladora a la que le vamos sumando cada elemento de la lista.<br>
+Veamos un ejemplo:
 
 ``` python
 sumatoria = 0
+
 for i in [1, 2, 3, 4]:
     sumatoria += i
-print("La suma de los números de 1 a 4 es " + sumatoria)
+    print(sumatoria)
 ```
 <br>
 
