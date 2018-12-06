@@ -9,12 +9,11 @@ for i in [1, 2, 3, 4]:
     sumatoria += i
     print(sumatoria)
 ```
-<br>
 
-**Detalles importantes:**
+**Importantes:**
 
-* El acumulador se modifica en cada iteración del bucle (en este caso, el valor de i se añade al acumulador suma).
-* Antes del bucle se debe dar un valor inicial al acumulador (en este caso, 0)
+* Antes del bucle se le asigna cero a lavariable acumuladora.
+* En cada iteración se le va sumando a la variable `sumatoria` el valor del elemento.
 
 <br>
 
