@@ -26,10 +26,12 @@ for i in range(6):
 
 
 
-> Python permite escribir `contador += 1` en lugar de `contador = contador + 1` 
+> Te dejamos un truquito!
+Python permite escribir `contador += 1` en lugar de `contador = contador + 1` 
 
 <br>
+> :memo: **Escribir un código que cuente todos los elementos de la siguiente lista**
 
-:memo: **Dada la siguiente lista, escribir un código que cuente todos los elementos de una lista en una variable llamada contador.**<br>
+<br>
 `lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
 
