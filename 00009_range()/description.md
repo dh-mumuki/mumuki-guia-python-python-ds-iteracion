@@ -21,3 +21,5 @@ for i in range(6):
 > "Hola Mundo!"
 > "Hola Mundo!"
 ```
+<br>
+> Usa la función range() para imprimir por pantalla 4 veces "Python" :snake:
