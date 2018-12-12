@@ -8,7 +8,6 @@ mi_lista = [1, 2, 3, 5]
 for numero in mi_lista:
   print(numero)
   
-ム
 > 1
 > 2
 > 3
@@ -26,7 +25,6 @@ for numero in mi_lista:
   numero = numero + 10
   print(numero)
   
-ム
 > 11
 > 12
 > 13
