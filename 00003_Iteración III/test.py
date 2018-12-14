@@ -1,3 +1,12 @@
 class TestFixtures(unittest.TestCase):
   def test_listas(self):
-    self.assertEquals(lista2, [-1, 11, -1, 20, 59, -4, 4])
+    
+    def estan_los_cuadrados(lista1, cuadrados):
+      
+      for x in lista1:
+        if not x**2 in cuadrados:
+          return False
+      
+      return True
+      
+    self.assertTrue(estan_los_cuadrados(lista1,cuadrados))
