@@ -1,3 +1,3 @@
-nombres = ['Angeles', "Carla", "Natalia", "Eugenia"]
+nombres = ['Demian', "Pablo", "Paolo", "Julian"]
 
-saludo =
+saludos = []
