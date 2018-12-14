@@ -1,6 +1,6 @@
 class TestFixtures(unittest.TestCase):
+  
+  saludos_test = ["Hola " + x + "!" for x in nombres]
+  
   def test_listas(self):
-    self.assertEquals(nombre.lower(),  "eugenia")
-    
-  def test_listas(self):
-    self.assertEquals(saludos, ["Hola Angeles!", "Hola Carla!", "Hola Natalia!", "Hola Eugenia!"])
+    self.assertEquals(len(saludos_test), len(saludos))
