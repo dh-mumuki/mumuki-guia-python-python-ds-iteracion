@@ -2,9 +2,6 @@
 
 ``` python
 ム
-> Demian
-> Pablo
-> Paolo
-> Julian 
+['Demian', "Pablo", "Paolo", "Julian"]
 ```
 
