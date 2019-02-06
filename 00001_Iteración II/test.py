@@ -1,4 +1,4 @@
 class TestFixtures(unittest.TestCase):
   
   def test_listas(self):
-    self.assertTrue(nombre in nombres)
+    self.assertFalse(False in (set([x for x in profesores_dh if x in ('Pablo', 'Demian', 'Paolo', 'Julian')])), 'Falta algun nombre en la lista')
