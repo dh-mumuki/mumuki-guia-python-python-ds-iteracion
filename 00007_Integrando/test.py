@@ -1,6 +1,6 @@
 class TestFixtures(unittest.TestCase):
   def test_media(self):
-    self.assertTrue(media,5, 'El valor de media no es correcto')
+    self.assertTrue(media==5, 'El valor de media no es correcto')
 
   def test_contador(self):
     self.assertEquals(contador, 8, 'El valor contador no es correcto')
