@@ -9,4 +9,4 @@ class TestFixtures(unittest.TestCase):
       
       return True
       
-    self.assertTrue(estan_los_cuadrados(lista1,cuadrados))
+    self.assertTrue(estan_los_cuadrados(lista1,cuadrados), 'Los elementos no son el cuadrado de los numeros dados')
