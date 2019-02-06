@@ -1,9 +1,9 @@
 class TestFixtures(unittest.TestCase):
-  def test_listas(self):
-    self.assertEquals(media, 5)
+  def test_media(self):
+    self.assertTrue(media,5, 'El valor de media no es correcto')
 
-  def test_listas(self):
-    self.assertEquals(contador, 8)
+  def test_contador(self):
+    self.assertEquals(contador, 8, 'El valor contador no es correcto')
     
-  def test_listas(self):
-    self.assertEquals(sumatoria, 42)
+  def test_suma(self):
+    self.assertEquals(sumatoria, 42, 'El valor de la suma no es correcto')
