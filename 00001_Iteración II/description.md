@@ -2,6 +2,6 @@
 
 ``` python
 ム
->['Demian', 'Pablo', 'Paolo', 'Julián']
+> ['Demian', 'Pablo', 'Paolo', 'Julián']
 ```
 
