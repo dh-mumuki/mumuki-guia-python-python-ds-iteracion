@@ -1,3 +1,3 @@
-:memo: **Dada la siguiente lista, escribí un código que devuelva el cuadrado de cada elemento y los guarde en otra lista llamada cuadrados.**
+:memo: **Dada la siguiente lista, escribí un código que devuelva el cuadrado de cada elemento y lo guarde en otra lista llamada cuadrados.**
 
-`lista1 = [2, 4, 2, 5 , 8, 1, 3]`
+`lista = [2, 4, 2, 5 , 8, 1, 3]`
