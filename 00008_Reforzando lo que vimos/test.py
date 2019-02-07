@@ -18,4 +18,4 @@ class TestFixtures(unittest.TestCase):
     self.assertEquals(len(saludos_test), len(saludos), 'La cantidad de saludos no es correcta.')
     
   def test_iteracion(self):
-    self.assertTrue(nombre=='Julián', 'La iteracion no es correcta.')
+    self.assertTrue(nombre=='Julian', 'La iteracion no es correcta.')
