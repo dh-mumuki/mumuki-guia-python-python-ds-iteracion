@@ -1,5 +1,3 @@
-nombres = ['Demian', "Pablo", "Paolo", "Julian"]
-
-for nombre in 
+nombres = ['Demian', 'Pablo', 'Paolo', 'Julián']
 
 saludos = []

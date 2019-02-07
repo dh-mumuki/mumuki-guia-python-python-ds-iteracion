@@ -10,12 +10,12 @@ class TestFixtures(unittest.TestCase):
         if i not in saludos:
           return False
       return True
-    saludos_test = ["Hola " + x + "!" for x in nombres]
+    saludos_test = ["Hola, " + x + "!" for x in nombres]
     self.assertTrue(f(saludos_test, saludos), "Algun saludo no es correcto o se repite")
   
   def test_listas(self):
-    saludos_test = ["Hola " + x + "!" for x in nombres]
+    saludos_test = ["Hola, " + x + "!" for x in nombres]
     self.assertEquals(len(saludos_test), len(saludos), 'La cantidad de saludos no es correcta.')
     
   def test_iteracion(self):
-    self.assertTrue(nombre=='Julian', 'La iteracion no es correcta.')
+    self.assertTrue(nombre=='Julián', 'La iteracion no es correcta.')
