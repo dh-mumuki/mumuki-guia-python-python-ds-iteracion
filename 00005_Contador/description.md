@@ -4,16 +4,10 @@ En muchos programas se necesitan variables que cuenten cuántas veces ha ocurrid
 ``` python
 contador = 0
 
-for i in range(6):
+for i in [1, 2, 3, 4, 5, 6]:
     contador = contador + 1
-    print(contador)
 
-ム
-> 1
-> 2
-> 3
-> 4
-> 5
+print(contador)
 > 6
 ```
 
@@ -28,4 +22,4 @@ Python permite escribir `contador += 1` en lugar de `contador = contador + 1`
 Veamos si se entendió:
 
 > :memo: **Escribí un código que cuente todos los elementos de la siguiente lista:**
-`lista = [2, 5, 4, 8, 9, 3, 5 , 6]`
+`lista = [2, 5, 4, 8, 9, 3, 5, 6]`
