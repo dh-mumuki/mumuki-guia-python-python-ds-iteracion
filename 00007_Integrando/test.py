@@ -7,3 +7,6 @@ class TestFixtures(unittest.TestCase):
     
   def test_suma(self):
     self.assertEquals(sumatoria, 42, 'El valor de la suma no es correcto')
+    
+  def test_iteracion(self):
+    self.assertTrue('n' in globals() , 'La iteracion no es correcta')
