@@ -1,1 +1,1 @@
-Recuerden reutilizar el código de los ejercicios anteriores!
+¡Recuerden que pueden reutilizar el código de los ejercicios anteriores!
