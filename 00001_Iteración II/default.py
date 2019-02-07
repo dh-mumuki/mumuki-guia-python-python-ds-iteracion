@@ -1,4 +1,4 @@
-nombres = ('Demian', "Pablo", "Paolo", "Julian")
+nombres = ('Demian', 'Pablo', 'Paolo', 'Julián')
 
 profesores_dh = []
 for nombre in 
