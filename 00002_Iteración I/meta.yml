@@ -8,13 +8,13 @@ language: text
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Imprime la sucesión de números de forma creciente (1, 3, 4) durante la iteración.
+  value: Imprime la sucesión de números de forma creciente (2, 3, 4) durante la iteración.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: imprime cada número contenido en la lista sin necesariamente tomando un criterio
+  value: Imprime cada número contenido en la lista sin tomar necesariamente un criterio
     de orden.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: imprime la sucesión de números en forma creciente de indice
+  value: Imprime la sucesión de números de acuerdo al orden de la lista.
   checked: true
 name: Iteración I
