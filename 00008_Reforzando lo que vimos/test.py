@@ -16,6 +16,3 @@ class TestFixtures(unittest.TestCase):
   def test_listas(self):
     saludos_test = ["Hola, " + x + "!" for x in nombres]
     self.assertEquals(len(saludos_test), len(saludos), 'La cantidad de saludos no es correcta.')
-    
-  def test_iteracion(self):
-    self.assertTrue(nombre=='Julian', 'La iteracion no es correcta.')
