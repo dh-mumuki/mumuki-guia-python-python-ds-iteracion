@@ -1,3 +1,12 @@
 class TestFixtures(unittest.TestCase):
-  def test_cuadrados(self):
-    self.assertTrue(cuadrados(lista), [4, 16, 4, 25 , 64, 1, 9]), 'Al menos un elemento no es un cuadrado.')
+  def test_listas(self):
+    
+    def estan_los_cuadrados(lista, cuadrados):
+      
+      for x in lista:
+        if not x**2 in cuadrados:
+          return False
+      
+    return True
+      
+    self.assertTrue(estan_los_cuadrados(lista,cuadrados), 'Al menos un elemento no es un cuadrado.')
